@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://internetaltacalidadmx.github.io/internet-alta-calidad/sitemap.xml
